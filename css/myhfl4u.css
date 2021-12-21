@@ -1,0 +1,54 @@
+body{
+    background: #000 url(../images/background.jpg) no-repeat;
+    font-family: 'Oswald', sans-serif;
+    color:#fff;
+    overflow:hidden;
+}
+
+.container {
+     width:90%;
+    height: 640px;
+}
+
+.very-big {
+    font-size:70px;
+    font-weight: 700;
+}
+
+.very-very-big {
+    font-size:90px;
+    font-weight: 700;
+}
+
+.medium {
+  font-size:50px;
+  font-weight: 700;
+}
+.full {
+    text-align:left;
+    padding: 50px 50px 50px 120px ;
+    height: 540px;
+    
+}
+
+.counter {
+  font-size: 80px;
+}
+
+.nav {
+  font-size:20px;
+  position: absolute;
+  bottom: 20px;
+  right:50px;
+  cursor:pointer;
+}
+
+#footer{
+  font-size:12px;
+  position: absolute;
+  bottom:10px;
+  left:20px;
+}
+#footer a{
+  color:#fff;
+}
